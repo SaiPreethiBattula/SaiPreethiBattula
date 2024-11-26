@@ -1,7 +1,7 @@
 # Hello, I'm Sai Preethi Battula! 👋
 
 ## About Me
-I have graduted with Master's in Business Analytics from California State University, East Bay. I'm passionate about exploring the vast world of machine learning and deep learning models. My academic journey and curiosity drived me to understand the nuances of artificial intelligence and its applications in business.
+I have graduated with Master's in Business Analytics from California State University, East Bay. I'm passionate about exploring the vast world of machine learning and deep learning models. My academic journey and curiosity drived me to understand the nuances of artificial intelligence and its applications in business.
 
 ## Interests
 - **Machine Learning**: Experimenting with various machine learning models to understand their strengths and limitations in solving real-world problems.
